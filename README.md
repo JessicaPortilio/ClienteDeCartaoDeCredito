@@ -4,4 +4,7 @@ Foi usado neste projeto o dataset a onde foi pego no kaggle link https://www.kag
 Foi realizado a classificação do 'Credit Card customers' utilizando dois algoritmos para realização da classificação com o objetivo de comparar os dois algoritmos e ver qual teve o melhor desempenho na hora de classificar. Os algoritmos usados foram Regressão Logística e Naive Bayes.
 Linguagem utilizada: Python// Ambiente utilizado: Google Colab // Bibliotecas utlizadas: Pandas, Numpy, Scikit-learn, Plotly
 
+Depois que o período terminou, resolvir fazer uma melhoria no projeto realizado na disciplina de Mineração. Então utilizei outros algoritmos além de Regressão Logística e Naive Bayes. Tal como SVM, Redes Neurais, Árvore de Decisão, Random Forest e KNN.
+Salvo classificador já treinado, onde eu escolho os três melhores algoritmos.
+
 #mineracaoDados #inteligencia-artificial #artificial-intelligence #mineracaodedados #datamining #regressaoLogistica #naiveBayes #data-scien
