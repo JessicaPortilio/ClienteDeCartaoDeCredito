@@ -7,4 +7,4 @@ Linguagem utilizada: Python// Ambiente utilizado: Google Colab // Bibliotecas ut
 Depois que o período terminou, resolvir fazer uma melhoria no projeto realizado na disciplina de Mineração. Então utilizei outros algoritmos além de Regressão Logística e Naive Bayes. Tal como SVM, Redes Neurais, Árvore de Decisão, Random Forest e KNN.
 Salvo classificador já treinado, onde eu escolho os três melhores algoritmos.
 
-#mineracaoDados #inteligencia-artificial #artificial-intelligence #mineracaodedados #datamining #regressaoLogistica #naiveBayes #data-scien
+#mineracaoDados #inteligencia-artificial #artificial-intelligence #mineracaodedados #datamining #regressaoLogistica #naiveBayes #data-scien #svm # knn #redesneurais #randomforest #arvoredecisao
